@@ -28,6 +28,6 @@ For future updates or potential collaboration opportunities, please keep an eye 
 
 ## Feedback
 
-Feedback on the project, especially regarding its development approach, technology stack, and security practices, is highly valued. Please reach out with any comments or inquiries.
+Feedback on the project, especially regarding its development approach, technology stack, and security practices, is highly valued. Feel free to make an account to test the website, and reach out with any comments or inquiries.
 
 I appreciate your interest in Calendair and its development journey. More to come!
